@@ -1,0 +1,67 @@
+﻿@model IEnumerable<AssetTrackingSystem.Models.Models.Organization>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    <hr />
+    <h4>Organization</h4>
+    <hr />
+    @Html.ActionLink("Create New", "Create")
+
+    @using (Html.BeginForm("Index", "Organization", FormMethod.Post))
+    {
+    <p>
+        Name: @Html.TextBox("name")
+        Code :  @Html.TextBox("code")
+        Location : @Html.TextBox("location")
+        <input type="submit" value="Search" />
+    </p>
+
+    }
+ </p>
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShortName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Code)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Location)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ShortName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Code)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Location)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id }) |
+                </td>
+            </tr>
+        }
+
+    </table>

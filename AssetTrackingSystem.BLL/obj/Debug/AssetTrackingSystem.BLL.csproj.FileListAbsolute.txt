@@ -1,0 +1,64 @@
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\AssetTrackingSystem.BLL.dll.config
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\AssetTrackingSystem.BLL.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\AssetTrackingSystem.BLL.pdb
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\AssetTrackingSystem.Models.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\AssetTrackinSystem.DAL.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.Helpers.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\AssetTrackingSystem.Models.pdb
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\AssetTrackinSystem.DAL.pdb
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.Helpers.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\obj\Debug\AssetTrackingSystem.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\obj\Debug\AssetTrackingSystem.BLL.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.BLL\obj\Debug\AssetTrackingSystem.BLL.pdb
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\AssetTrackingSystem.BLL.dll.config
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\AssetTrackingSystem.BLL.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\AssetTrackingSystem.BLL.pdb
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\AssetTrackingSystem.Models.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\AssetTrackinSystem.DAL.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\AutoMapper.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\EntityFramework.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\EntityFramework.SqlServer.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\Newtonsoft.Json.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Data.SqlServerCe.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.Helpers.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.Mvc.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.Razor.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.WebPages.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.WebPages.Razor.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\AssetTrackingSystem.Models.pdb
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\AssetTrackinSystem.DAL.pdb
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\AutoMapper.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\EntityFramework.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\EntityFramework.SqlServer.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\Newtonsoft.Json.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.Helpers.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.Mvc.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.Razor.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.WebPages.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\bin\Debug\System.Web.WebPages.Razor.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\obj\Debug\AssetTrackingSystem.BLL.csprojResolveAssemblyReference.cache
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\obj\Debug\AssetTrackingSystem.BLL.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.BLL\obj\Debug\AssetTrackingSystem.BLL.pdb

@@ -1,0 +1,73 @@
+﻿@model AssetTrackingSystem.Models.Models.DetailsCategory
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Details Category</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.SubCategory.subCategory)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SubCategory.subCategory)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GeneralCategoryId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GeneralCategoryId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CategoryId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CategoryId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.detailsCategory)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.detailsCategory)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Code)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Code)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

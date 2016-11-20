@@ -1,0 +1,75 @@
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\AssetTrackingSystem.Models.dll.config
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\AssetTrackingSystem.Models.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\AssetTrackingSystem.Models.pdb
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\EntityFramework.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Data.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.Helpers.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.Mvc.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.Razor.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.WebPages.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\EntityFramework.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.Helpers.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.Mvc.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.Razor.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.WebPages.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\obj\Debug\AssetTrackingSystem.Models.dll
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\obj\Debug\AssetTrackingSystem.Models.pdb
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\obj\Debug\AssetTrackingSystem.Models.Migrations.Final12.resources
+C:\Users\Rabby\Documents\Visual Studio 2013\Projects\Asset-Tracking-System\AssetTrackingSystem.Models\obj\Debug\AssetTrackingSystem.Model.csproj.GenerateResource.Cache
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\AssetTrackingSystem.Models.dll.config
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\AssetTrackingSystem.Models.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\AssetTrackingSystem.Models.pdb
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\AutoMapper.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\EntityFramework.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\Microsoft.CSharp.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\Newtonsoft.Json.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.ComponentModel.DataAnnotations.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Data.DataSetExtensions.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Data.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Data.SqlServerCe.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.Helpers.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.Mvc.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.Razor.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.WebPages.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.WebPages.Razor.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\AutoMapper.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\EntityFramework.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\Newtonsoft.Json.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.Helpers.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.Mvc.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.Razor.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.WebPages.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\bin\Debug\System.Web.WebPages.Razor.xml
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\obj\Debug\AssetTrackingSystem.Models.dll
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\obj\Debug\AssetTrackingSystem.Models.pdb
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\obj\Debug\AssetTrackingSystem.Model.csprojResolveAssemblyReference.cache
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\obj\Debug\AssetTrackingSystem.Models.Migrations.asset.resources
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\obj\Debug\AssetTrackingSystem.Model.csproj.GenerateResource.Cache
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\obj\Debug\AssetTrackingSystem.Models.Migrations.assetEntry1.resources
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\obj\Debug\AssetTrackingSystem.Models.Migrations.AssetPurchaseEntry.resources
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\obj\Debug\AssetTrackingSystem.Models.Migrations.assetRegistration.resources
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\obj\Debug\AssetTrackingSystem.Models.Migrations.AssetReg1.resources
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\obj\Debug\AssetTrackingSystem.Models.Migrations.exitcode.resources
+F:\asp.net mvc\Asset-Tracking-System\AssetTrackingSystem.Models\obj\Debug\AssetTrackingSystem.Models.Migrations.Model.resources
